@@ -34,7 +34,7 @@
     "netlify-cli": "^1.1.0",
     "node-sass": "^4.1.1",
     "postcss-scss": "^0.4.0",
-    "pug": "^2.0.0-beta6",
+    "pug": "^3.0.1",
     "webpack": "^1.14.0",
     "webpack-dev-middleware": "^1.9.0",
     "webpack-hot-middleware": "^2.14.0"
